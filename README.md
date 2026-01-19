@@ -60,7 +60,7 @@ Simply run the script from its directory:
 #### Result:
 It should switch between dark and light mode and post a temporary notification.
 
-## 4. Add the custom shortcut COSMIC
+## 4. Add the custom shortcut to COSMIC
 Open the keyboard settings.
 ```bash
 cosmic-settings keyboard
