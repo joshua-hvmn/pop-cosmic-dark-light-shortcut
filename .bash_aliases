@@ -1,0 +1,1 @@
+alias toggle-theme='~/pop-cosmic-dark-light-shortcut/toggle-dark.sh'
