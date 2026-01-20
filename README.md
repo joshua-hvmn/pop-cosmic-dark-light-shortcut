@@ -1,6 +1,8 @@
 # Pop!_OS 24.04 COSMIC DE Dark/Light Theme Shortcut
 I got tired of going to the settings to switch between themes, so I made a simple script, bash alias, and custom shortcut. This is a guide so you can do it too. If there is already a shortcut (there used to be) and I wasted my time... Oh well...
 
+*Update:* I *sort of* wasted my time. There is a quick toggle for dark mode in the *External Monitor Brightness* applet from the COSMIC store. However, it doesn't include a keyboard shortcut, as far as I know.
+
 Before you get started, here are my assumptions:
 1. You use Bash and a relatively standard COSMIC desktop environment on Pop!_OS 24.04.
 2. System76 has not yet added a toggle shortcut.
